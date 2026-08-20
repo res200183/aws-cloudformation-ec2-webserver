@@ -1,0 +1,19 @@
+# AWS / CloudFormation
+.aws-sam/
+*.packaged.yaml
+
+# Environment and secrets
+.env
+.env.*
+*.pem
+*.key
+
+# Temporary files
+*.tmp
+*.log
+*~
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
